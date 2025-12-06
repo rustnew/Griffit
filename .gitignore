@@ -1,0 +1,13 @@
+.Rhistory
+.RData
+.Rproj.user/
+*.Rproj
+*.tar.gz
+*.pdf
+.DS_Store
+inst/doc/
+vignettes/*.html
+vignettes/*.pdf
+docs/
+Meta/
+doc/
